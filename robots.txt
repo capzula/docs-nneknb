@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-setedw.jambul126.online/sitemap.xml
